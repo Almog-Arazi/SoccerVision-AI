@@ -49,4 +49,4 @@ To run this project, ensure you have the following installed:
 
 This project was inspired by the following video:
 
-- [YouTube Video](https://www.youtube.com/watch?v=neBZ6huolkg&t=11247s)
+- [YouTube Video](https://www.youtube.com/watch?v=neBZ6huolkg&t=1s)
